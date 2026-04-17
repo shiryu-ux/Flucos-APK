@@ -21,16 +21,7 @@ To provide a robust focus experience, Flocus requires several specialized Androi
 - **Notification Policy:** To manage "Do Not Disturb" settings automatically.
 - **Foreground Service:** To ensure your session isn't killed by the system in the background.
 
-## 🔧 Installation
 
-1. Clone this repository.
-2. Open the project in **Android Studio**.
-3. Build and run the app on an Android device (API 26+ recommended).
-4. Follow the **Device Setup Guide** within the app to grant necessary permissions.
-
-## 📱 Screenshots
-
-*(Add your screenshots here to make the README even better!)*
 
 ## 📄 License
 
